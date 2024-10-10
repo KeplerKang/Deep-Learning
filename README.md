@@ -1,4 +1,4 @@
-# <img src="DeepLearning-花书双语\偶像也学深度学习.jpg" alt="偶像也学深度学习" style="zoom: 80%;" />
+# <img src="DeepLearning-花书双语\偶像也学深度学习.jpg" alt="偶像也学深度学习" style="zoom: 50%;" />
 
 # Deep Learning
 
